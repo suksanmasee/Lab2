@@ -31,10 +31,8 @@ public class Game {
                 continue;
             }
             ox.switchPlayer();
-
         }
     }
-
     private static void printDraw() {
         System.out.println("Draw");
     }
